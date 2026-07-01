@@ -16,6 +16,8 @@ const Layout = ({ children }: LayoutProps) => {
           <div className="flex space-x-4">
             <Link to="/" className="text-gray-700 hover:text-indigo-600 px-3 py-2 rounded-md text-sm font-medium">Home</Link>
             <Link to="/about" className="text-gray-700 hover:text-indigo-600 px-3 py-2 rounded-md text-sm font-medium">About</Link>
+            <Link to="/case-studies" className="text-gray-700 hover:text-indigo-600 px-3 py-2 rounded-md text-sm font-medium">Our Work</Link>
+            <Link to="/contact" className="text-gray-700 hover:text-indigo-600 px-3 py-2 rounded-md text-sm font-medium">Contact</Link>
           </div>
         </nav>
       </header>

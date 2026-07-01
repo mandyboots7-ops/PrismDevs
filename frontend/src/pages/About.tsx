@@ -109,7 +109,7 @@ const About = () => {
               Get Started
             </Link>
             <a
-              href="mailto:hello@prismdevs.ctonew.app"
+              href="mailto:prism-devs-56cbc43e@ctomail.io"
               className="px-8 py-3 bg-white text-indigo-600 border border-indigo-600 font-bold rounded-lg hover:bg-indigo-50 transition-colors"
             >
               Contact Us
